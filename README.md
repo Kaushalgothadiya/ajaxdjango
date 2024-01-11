@@ -1,0 +1,2 @@
+# ajaxdjango
+ajax and django
